@@ -1,0 +1,1787 @@
+[
+{
+  "category": "disposable",
+  "slug": "disposable",
+  "brands": [
+    {
+      "name": "Al FAKHER",
+      "slug": "disposable",
+      "types": [
+        {
+          "productName": "Al Fakher Crown Bar 15000 Hypermax Disposable Vape",
+          "slug": "al-fakher-crown-bar-15000-hypermax-disposable-vape",
+          "soldOut": false,
+          "thumbnailImage": "https://i.ibb.co.com/XkvbzjFq/1.png",
+          "productShortDescription": "The Al Fakher Crown Bar 15000 Hypermax Disposable Vape delivers up to 15,000 puffs of intense flavor, all within a sleek, compact design. Perfect for vapers who seek a smooth nicotine hit with a variety of unique flavor options.",
+          "price": 50,    
+          "flavours": [
+            {
+              "flavor": "Space Dream",
+              
+                "flavorImage": "https://i.ibb.co.com/HTBCnChb/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lemon Lime",
+              
+                "flavorImage": "https://i.ibb.co.com/39GsWTn7/3.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mango Pinapple",
+              
+                "flavorImage": "https://i.ibb.co.com/8nGFftJN/4.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Hubba",
+              
+                "flavorImage": "https://i.ibb.co.com/HLNqFT1R/5.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Grape Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/6RXk9tq4/6.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cherry Fiesta",
+              
+                "flavorImage": "https://i.ibb.co.com/tpbys0k9/7.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cherry Fiesta",
+              
+                "flavorImage": "https://i.ibb.co.com/tpbys0k9/7.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cool Mango",
+              
+                "flavorImage": "https://i.ibb.co.com/JwSvy49B/8.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blue Razz Lemonade",
+              
+                "flavorImage": "https://i.ibb.co.com/m51XN0H6/9.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blueberry Gum",
+              
+                "flavorImage": "https://i.ibb.co.com/wrrqHytH/10.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blueberry Ocean",
+              
+                "flavorImage": "https://i.ibb.co.com/xtvLJ2NH/11.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Black Currant Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/JW8gVF67/12.png",
+              "stock": 5
+            }
+            
+          ],
+          
+          "pointDescription": [
+            {
+                "label": "Nicotine Strength:",
+                "value": "6mg/0.6%"
+            },
+            {
+                "label": "Puff Count:",
+                "value": "Up to 15,000 puffs"
+            },
+            {
+                "label": "Experience:",
+                "value": "Streamlined and Comfortable Design"
+            },
+            {
+                "label": "Type:",
+                "value": "Dispossable"
+            },
+            {
+                "label": "Version:",
+                "value": "Draw Activated"
+            },
+            {
+                "label": "Portable Convenience:",
+                "value": "Compact and lightweight"
+            },
+            {
+                "label": "Premium Design:",
+                "value": "Ergonomic, sleek, and stylish."
+            },
+            {
+                "label": "High-Quality E-Liquid:",
+                "value": " Ensures a smooth, flavorful experience."
+            },
+            {
+                "label": "Flavors:",
+                "value": "Available in too many flavors, with multicolor pod options corresponding to different flavors"
+            },
+            {
+                "label": "No Maintenance Required:",
+                "value": "Completely disposable for ultimate convenience."
+            },
+            {
+                "label": "Advanced Technology:",
+                "value": "Consistent vapor and flavor delivery."
+            }
+          ],
+           "productDescription": "The Al Fakher Crown Bar 15000 Puffs Hypermax Disposable Vape is your gateway to an unparalleled vaping experience. With an impressive 15,000 puffs per device, this disposable vape is designed for those who demand high performance and long-lasting enjoyment. Crafted by one of the most trusted names in the vape industry, Al Fakher, this disposable vape combines convenience, quality, and flavor variety in one sleek package. Whether you’re an experienced vaper or just starting out, the Crown Bar 15000 offers a perfect blend of rich flavors and a satisfying nicotine hit, making it your ideal companion for on-the-go vaping in Dubai.",
+          "featurePoints": [
+             {
+                "label": "Extended Puff Capacity:",
+                "value": "With up to 15,000 puffs, this vape lasts longer than the average disposable, ensuring a hassle-free experience without the need for refills or recharges."
+            },
+             {
+                "label": "20mg Nicotine Strength:",
+                "value": "The 20mg nicotine level provides a balanced throat hit that satisfies cravings without overwhelming, making it perfect for everyday vaping."
+            },
+            {
+                "label": "Elegant, Portable Design:",
+                "value": "The Al Fakher Crown Bar is designed for ease of use and portability, allowing you to carry it wherever you go. Its sleek and lightweight build fits comfortably in your hand or pocket."
+            },
+             {
+                "label": "Ready to Use:",
+                "value": "No buttons, no refilling – just unbox and start enjoying your vape. It’s an ideal choice for vapers seeking convenience."
+            },
+             {
+                "label": "Flavorful Experience:",
+                "value": "Choose from a selection of 11 mouth-watering flavors that deliver consistent, rich, and satisfying hits with every puff."
+            }
+
+          ],
+          "availableFlavorsPoints": [
+            {
+                "label": "Black Currant Mint",
+                "value": "A refreshing blend of tangy black currant with a cooling mint finish."
+            },
+            {
+                "label": "Blue Ocean:",
+                "value": "Dive into this smooth, oceanic blend of sweet and citrusy notes."
+            },
+            {
+                "label": "Blue Razz Lemonade:",
+                "value": "A zesty lemonade twist with the tangy bite of blue raspberry."
+            },
+            {
+                "label": "Blueberry Gum:",
+                "value": "Experience a nostalgic bubblegum flavor with a blueberry twist."
+            },
+            {
+                "label": "Cherry Fiesta:",
+                "value": "A burst of sweet cherry goodness that leaves a delightful aftertaste."
+            },
+            {
+                "label": "Cool Mango:",
+                "value": "Fresh, ripe mangoes with a refreshing, icy finish for a tropical escape."
+            },
+            {
+                "label": "Grape Mint:",
+                "value": "Juicy grapes meet a minty cool sensation in this fruity-fresh combo."
+            },
+            {
+                "label": "Lemon Lime:",
+                "value": "A citrus blast of lemon and lime for a tangy and refreshing vape."
+            },
+            {
+                "label": "Mango Pineapple:",
+                "value": "A tropical fusion of succulent mango and pineapple for a sweet and exotic hit."
+            },
+            {
+                "label": "Space Dream:",
+                "value": "An out-of-this-world mix of sweet and fruity flavors that feels cosmic."
+            },
+            {
+                "label": "Hubba:",
+                "value": "A playful and fruity flavor reminiscent of your favorite childhood bubblegum."
+            }
+          ],
+          "whyYouShouldBuyPoints": [
+            {
+                "label": "High Puff Count:",
+                "value": "No need to worry about replacing your vape too soon; 15,000 puffs ensure longevity."
+            },
+            {
+                "label": "Premium Flavor Selection:",
+                "value": "Choose from an array of exciting, well-balanced flavors that cater to all taste preferences."
+            },
+            {
+                "label": "Hassle-Free:",
+                "value": "Pre-filled and pre-charged, this disposable vape is ready to use out of the box, offering a convenient and satisfying vaping experience."
+            },
+            {
+                "label": "Nicotine Strength:",
+                "value": "6mg of nicotine delivers the perfect balance for those looking for a smooth but satisfying nicotine hit."
+            },
+            {
+                "label": "Trusted Brand: ",
+                "value": "Al Fakher is known worldwide for producing high-quality vape products, giving you peace of mind when choosing this device."
+            }
+            
+          ],
+          "whereToBuyShortDescription": "You can purchase the Al Fakher Crown Bar 15000 Hypermax Disposable Vape from vapepremium.uae, your trusted destination for premium vape products. Shop now and enjoy fast, reliable shipping across Dubai.",
+          "faq": [
+            {
+              "question": "How long does the Al Fakher Crown Bar 15000 last?",
+              "answer": " The device is designed to provide up to 15,000 puffs, depending on usage patterns. This gives it a significantly longer life compared to other disposables on the market."
+            },
+            {
+              "question": "Is it rechargeable?",
+              "answer": "No, the Al Fakher Crown Bar 15000 is a disposable vape and does not require recharging or refilling. It’s designed for convenience."
+            },
+            {
+              "question": "Can I refill the Al Fakher Crown Bar 15000? ",
+              "answer": " No, this device comes pre-filled with e-liquid and cannot be refilled. Once the liquid is finished, simply dispose of the device responsibly."
+            },
+            {
+              "question": "Is 20mg nicotine strength too strong?",
+              "answer": " For most users, 6mg offers a balanced experience, providing a satisfying nicotine hit without being too harsh on the throat."
+            },
+            {
+              "question": "What flavors are available?",
+              "answer": " The Al Fakher Crown Bar 15000 is available in a wide range of flavors, including Black Currant Mint, Blue Ocean, Blue Razz Lemonade, Blueberry Gum, Cherry Fiesta, Cool Mango, Grape Mint, Lemon Lime, Mango Pineapple, Space Dream, and Hubba."
+            }
+          ],
+          "offer": {
+                "isActive": false,
+                "offerPrice": 15
+              },
+          "reviews": [
+                {
+                  "user": "John Doe",
+                  "rating": 5,
+                  "comment": "Amazing flavor, lasted long!"
+                }
+              ]
+        },
+        {
+          "productName": "Al Fakher Crown Bar 15000 Pro Max Disposable Vape",
+          "slug": "al-fakher-crown-bar-15000-pro-max-disposable-vape",
+          "soldOut": false,
+          "thumbnailImage": "https://i.ibb.co.com/Y4C8YGLC/1.png",
+          "productShortDescription": "Take your vaping experience to the next level with nothing but the Best Al Fakher Crown Bar 15000 Pro Max Disposable Vape. This disposable vape comes in a selection of rich and diverse flavors and offers up to 15000 puff count limit. The design speaks and sparks convenience from grip to corner and is crafted to ensure a smooth, flavorful experience that has quality and the longevity for prolonged use without concerning with the need for replacement, anytime soon.",
+          "price": 50,    
+          "flavours": [
+            {
+              "flavor": "White Flash",
+              
+                "flavorImage": "https://i.ibb.co.com/9HPrtLc8/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Two Apple",
+              
+                "flavorImage": "https://i.ibb.co.com/kgk8829m/3.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Sweet Passion Fruit",
+              
+                "flavorImage": "https://i.ibb.co.com/kgBQYPPD/4.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Peach Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/Dfm1NHkZ/6.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Strawberry Punch",
+              
+                "flavorImage": "https://i.ibb.co.com/ynZK5s4h/5.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/1YqhgDSp/7.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mango Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/Vp2CkgGf/8.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cool Mango",
+              
+                "flavorImage": "https://i.ibb.co.com/JwSvy49B/8.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Magic Love",
+              
+                "flavorImage": "https://i.ibb.co.com/gLTWBKsZ/9.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Luch Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/5h7qhLhQ/10.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lucid Dream",
+              
+                "flavorImage": "https://i.ibb.co.com/1fZsqFR8/11.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lemon Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/MJfQP59/12.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Gum Flavour",
+              
+                "flavorImage": "https://i.ibb.co.com/cKjFtNVv/13.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Grape Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/RG756Xrh/14.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cherry Fiesta",
+              
+                "flavorImage": "https://i.ibb.co.com/tMSC5tCk/15.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blue Razz Lemonade",
+              
+                "flavorImage": "https://i.ibb.co.com/n4wqQ11/16.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blueberry Gum",
+              
+                "flavorImage": "https://i.ibb.co.com/G3WXdLP2/17.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Black Currant Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/Ps7mQhpW/18.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Berry Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/bgg0RSfP/19.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Berry Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/rKxsrGks/20.png",
+              "stock": 5
+            }
+            
+          ],
+          
+          "pointDescription": [
+            {
+                "label": "Nicotine Strength:",
+                "value": "5% (50mg)"
+            },
+            {
+                "label": "Puff Count:",
+                "value": "Up to 15,000 puffs"
+            },
+            {
+                "label": "Battery:",
+                "value": "850mAh"
+            },
+            {
+                "label": "Charging:",
+                "value": "C Port"
+            },
+            {
+                "label": "Rechargeable:",
+                "value": "Yes"
+            },
+            {
+                "label": "Coil:",
+                "value": "Mesh Coil"
+            },
+            {
+                "label": "Premium Design:",
+                "value": "Ergonomic, sleek, and stylish."
+            },
+            {
+                "label": "E-Liquid Capacity:",
+                "value": "22ml"
+            },
+            {
+                "label": "Flavors:",
+                "value": "Available in too many flavors, with multicolor pod options corresponding to different flavors"
+            },
+            {
+                "label": "No Maintenance Required:",
+                "value": "Completely disposable for ultimate convenience."
+            },
+            {
+                "label": "Advanced Technology:",
+                "value": "Consistent vapor and flavor delivery."
+            }
+          ],
+           "productDescription": "Meet your next level in vaping perfection, the Best Al Fakher Crown Bar 15000 Pro Max Disposable Vape is finally here and sold from Dubai. If you are looking for that disposable vape that expresses the convenience of quality and diversity, look no further. Al Fakher is a name synonymous with shisha and vape, bringing you this work of beauty from the best minds to deliver up to 15,000 puffs of pure satisfaction. The Al Fakher Crown Bar Pro Max 15000 tailored for the needs of both advanced and beginner vaper, with massive performance and large flavor variety. The Best Al Fakher Crown Bar 15000 Pro Max Disposable Vape is more than just another vape; it’s a certain way of life – one that is designed for those who like and appreciates the aesthetics of finer things. Having an impressive puff capacity, robust battery life, and a sleek, portable design, this disposable vape perfectly works for on-the-go vaping. Forget the hassle of charging, refilling, and maintaining your vape. All that is left with the Al Fakher Crown Bar 15000 Pro Max is to indulge in those rich and full flavors for which Al Fakher is famous.",
+          "featurePoints": [
+             {
+                "label": "Matchless Puff Capability:",
+                "value": "The Best Al Fakher Crown Bar 15000 Pro Max stands out due to its exceptionally great capacity of 15,000 puffs. This translates to a really long vaping session without having to purchase new devices from time to time. Be it you vape sparingly or enjoy your vape regularly, it will serve you for quite a long period."
+            },
+             {
+                "label": "Premium Quality and Design:",
+                "value": "Al Fakher adds value to every product with premium quality, and the Crown Bar 15000 Pro Max is no exception. This is a piece that has been done in very friendly styling considering both aesthetic and functional appeal. Its sleek and nice modern design makes it easy to carry around, while the robust casing makes it bound to handle daily wear and tear. Compact and portable, the device is the perfect fit for any occasion, be it traveling, work, or just relaxation at home."
+            },
+            {
+                "label": "Hassle-Free Vaping Experience: ",
+                "value": "Al Fakher Crown Bar 15000 Pro Max is a fully disposable vape; there’s no need to refill, recharge, or service it. That’s how easy it can be-operate it straight out of the package and enjoy vaping. You vape those 15,000 puffs and throw away the device, taking up another. This proves handy for anybody in a rush or for those just taking up vaping and like their experience easy and carefree."
+            },
+             {
+                "label": "Rich, Satisfying Flavors:",
+                "value": "One of the key features found with the Al Fakher Crown Bar 15000 is indeed its numerous varieties of flavor. Al Fakher is a brand honored with genuine, rich flavors throughout its existence. With 23 different kinds of flavors, there’s surely something for everyone. Most come in fruity blends to refreshing menthol and classic tobacco, all crafted to create a smooth experience from the first puff down to the last."
+            },
+             {
+                "label": "High Nicotine Strength:",
+                "value": "With a nicotine strength of 5% (50 mg), the Best Al Fakher Crown Bar 15000 Pro Max intake is recommended for individuals who are looking for satisfaction with that strong hit. Nicotine salts in this vape give a smooth throat hit compared to the traditional freebase nicotine. Therefore, it is quite a good option for ex-smokers or those who enjoy intensive experiences with nicotine."
+            },
+             {
+                "label": "Eco-Friendly Design:",
+                "value": "While Al Fakher Crown Bar 15000 Pro Max is a disposable vape, it’s designed to minimize environmental impact. This device is built with materials, most of which are sourced for durability and to create a minimum of damage to the environment for you to enjoy the overall vaping experience safely and with a clear conscience."
+            }
+
+          ],
+          "availableFlavorsPoints": [
+            {
+                "label": "Banana Ice:",
+                "value": "Smooth and creamy banana flavor with a cool refreshing menthol finish. Great for those who want to vape something fruity but also with a little twist."
+            },
+            {
+                "label": "Blackcurrant:",
+                "value": "Strong and sour blackcurrant taste; with each puff, you are able to taste the essence of berries. Definitely bold and satisfying, for those who love berries."
+            },
+            {
+                "label": "Blueberry:",
+                "value": "Sweet and succulent blueberry flavor, refreshing and indulgent. One for the lovers of fruity vapors."
+            },
+            {
+                "label": "Candy:",
+                "value": "Sweet, sugary stuff that takes you back to childhood. Playful, fun, and apt for sweet tooth tendencies."
+            },
+            {
+                "label": "Cola Ice:",
+                "value": "The essence of traditional cola flavor with a cool and icy kick. Cola never felt so refreshing and full of nostalgia; perfect for summer or to keep that cool with a bump of refreshment."
+            },
+            {
+                "label": "Cool Mango:",
+                "value": "Fresh, ripe mangoes with a refreshing, icy finish for a tropical escape."
+            },
+            {
+                "label": "Double Apple:",
+                "value": "Strong and crisp, the flavor puts the two best apples together in their sweet redness with the tart, light zest of a green apple. This is another more traditional choice among shisha lovers."
+            },
+            {
+                "label": "Lemon Lime:",
+                "value": "A citrus blast of lemon and lime for a tangy and refreshing vape."
+            },
+            {
+                "label": "Energy Ice:",
+                "value": "Energizing, lively flavor with a taste profile similar to that of your favorite energy drink with a cool menthol finish-perfect for that boost needed anytime. Grape: Sweet, juicy grape flavor that is rich yet satisfying. Classics never go out of style."
+            },
+            {
+                "label": "Green Mango:",
+                "value": "Green mango is sour in flavor and is sure to bring a cool nature to the vape that will be totally different than most. For the audacious and those favoring incongruous flavors, this one would be a perfect fit."
+            },
+            {
+                "label": "Guava Passionfruit:",
+                "value": "Freshly rich and tropical, guava blends with the tartness of passionfruit, making a person sail away with every inhale to a sunny beach."
+            },
+            {
+                "label": "Lemon:",
+                "value": "The citrusy, zesty value of lemon in this flavor is refreshing and rejuvenating. This would be the perfect e-juice for people who prefer strong, clean cuts in flavor."
+            },
+            {
+                "label": "Mango Peach:",
+                "value": "A sweet, succulent flavor emanates from a tropical fusion of fully ripe mango and juicy peaches, making it exotic and gratifying."
+            },
+            {
+                "label": "Mint:",
+                "value": "Cool, refreshing mint flavor—clean and crisp for those who like something consistent but refreshing."
+            },
+            {
+                "label": "Peach Mango Watermelon:",
+                "value": "Sweet and sticky peach paired with tropical mango, all rounded out with refreshing watermelon. This flavor provides you with fruity madness bursting with sweetness in every puff."
+            },
+            {
+                "label": "Peach Mango Watermelon:",
+                "value": "Sweet and sticky peach paired with tropical mango, all rounded out with refreshing watermelon. This flavor provides you with fruity madness bursting with sweetness in every puff."
+            }
+          ],
+          "whyYouShouldBuyPoints": [
+            {
+                "label": "Unparalleled Convenience:",
+                "value": "Given that a single device allows one to puff as many as 15,000 times. Whether one is a heavy or casual vapor, a guarantee that this vape, the Al Fakher Crown Bar 15000 Pro Max, will last and reduce frequency when one needs to make a purchase."
+            },
+            {
+                "label": "Premium Feel:",
+                "value": "Al Fakher is a name trusted in the shisha and vape world for creating premium quality products that create an experience worth having. The Crown Bar 15000 Pro Max does not fall behind in performance either and is durable, just like its name."
+            },
+            {
+                "label": "Great range of flavors:",
+                "value": "Having 23 different flavors at your will, you’ll surely find one that suits your taste, or two, or three. You can change them whenever you want because you have so many options to keep your vaping exciting and new."
+            },
+            {
+                "label": "Ease of Use:",
+                "value": "Al Fakher Crown Bar 15000 Pro Max is the most user-friendly in every way. You wouldn’t have to mess with it, charging it or refilling its juice, or even replacing coils. You just pick it up and vape, that’s it."
+            },
+            {
+                "label": "Rich, Satisfying Nicotine Delivery:",
+                "value": "Al Fakher is known worldwide for producing high-quality vape products, giving you peace of mind when choosing this device."
+            }
+            
+          ],
+          "whereToBuyShortDescription": "You can purchase the Al Fakher Crown Bar 15000 Pro Max Disposable Vape from vapepremium.uae, your trusted destination for premium vape products. Shop now and enjoy fast, reliable shipping across Dubai.",
+          "faq": [
+            {
+              "question": "How long does an Al Fakher Crown Bar 15000 Pro Max last?",
+              "answer": "  All of these devices offer as many as 15,000 puffs, which should sustain you for a number of weeks depending on how often you use it."
+            },
+            {
+              "question": "Can I recharge the Al Fakher Crown Bar 15000 Pro Max?",
+              "answer": "This device is fully disposable. When you’ve consumed the full 15,000 puffs, you can safely dispose of it and replace it with a new one."
+            },
+            {
+              "question": "In what nicotine strength can I buy the Al Fakher Crown Bar 15000 Pro Max?",
+              "answer": "  The device is pre-filled with a 5% (50mg) nic salt formula for a potent and smooth hit."
+            },
+            {
+              "question": " Can I buy other tastes in one box?",
+              "answer": " Usually, Al Fakher Crown Bar 15000 Pro Max has more than one device in one box with the same flavor. You can mix flavors by purchasing different boxes."
+            }
+          ],
+          "offer": {
+                "isActive": false,
+                "offerPrice": 15
+              },
+          "reviews": [
+                {
+                  "user": "John Doe",
+                  "rating": 5,
+                  "comment": "Amazing flavor, lasted long!"
+                }
+              ]
+        },
+        {
+          "productName": "Al Fakher Crown Bar Crystal 9000 Puffs Disposable Vape",
+          "slug": "al-fakher-crown-bar-crystal-9000-puffs-disposable-vape",
+          "soldOut": false,
+          "thumbnailImage": "https://i.ibb.co.com/2Y1N6dB8/1.png",
+          "productShortDescription": "Level up your shisha game with Al FAKHER CROWN BAR CRYSTAL 9000 PUFFS DISPOSABLE Vape which provides a similar Shisha-like experience with rich variety in flavors, while the capacity limit is up to 9,000 puffs. A combination of  top-quality flavor and long-lasting performance with sleek design, making it a perfect choice for those who desire to stick to one flavor for a long time without needing to with another anytime soon.",
+          "price": 45,    
+          "flavours": [
+            {
+              "flavor": "Two Apple",
+              
+                "flavorImage": "https://i.ibb.co.com/prXwcZKR/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Strawberry Punch",
+              
+                "flavorImage": "https://i.ibb.co.com/gbNGZb5n/3.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Sweet Passion Fruit",
+              
+                "flavorImage": "https://i.ibb.co.com/zTCSw08x/4.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Peach Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/gFMnh1Fw/5.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/60XvHx1n/6.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Magic Love",
+              
+                "flavorImage": "https://i.ibb.co.com/HDkVbmSC/7.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mango Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/0j7GH6Qb/8.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lucid Dream",
+              
+                "flavorImage": "https://i.ibb.co.com/392byhFL/9.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cherry Fiesta",
+              
+                "flavorImage": "https://i.ibb.co.com/bR2MnY8G/11.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lucid Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/TMyy3M90/10.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lemon Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/hFZg5HsP/12.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blueberry Gum",
+              
+                "flavorImage": "https://i.ibb.co.com/k20ftHXS/13.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Black Currant Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/R4Z5M5Dm/14.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Berry Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/99XdrXs9/15.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Berry Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/QF4DDjvZ/16.png",
+              "stock": 5
+            }
+            
+          ],
+          
+          "pointDescription": [
+            {
+                "label": "Nicotine Strength:",
+                "value": "5% (50mg)"
+            },
+            {
+                "label": "Puff Count:",
+                "value": "9,000 puffs per device"
+            },
+            {
+                "label": "Battery:",
+                "value": "650mAh"
+            },
+            {
+                "label": "Charging:",
+                "value": "C Port"
+            },
+            {
+                "label": "Rechargeable:",
+                "value": "Yes"
+            },
+            {
+                "label": "Coil:",
+                "value": "Mesh Coil"
+            },
+            {
+                "label": "Premium Design:",
+                "value": "Ergonomic, sleek, and stylish."
+            },
+            {
+                "label": "E-Liquid Capacity:",
+                "value": "14ml"
+            },
+            {
+                "label": "Flavors:",
+                "value": "Available in too many flavors, with multicolor pod options corresponding to different flavors"
+            },
+            {
+                "label": "Resistance:",
+                "value": "0 Ω"
+            },
+            {
+                "label": "Advanced Technology:",
+                "value": "Consistent vapor and flavor delivery."
+            }
+          ],
+           "productDescription": "Introducing the Al FAKHER CROWN BAR CRYSTAL 9000 PUFFS DISPOSABLE Vape. Al Fakher is a brand that can be identified by its premium quality shisha flavors, taping various blends of flavor profiles along with convenience in devices that a disposable vape can offer. The Al Fakher Crown Bar Crystal 9000 Puffs is designed to provide a consistent vaping experience whether you are a professional vaper or someone who just switched from smoking.Step up your vape game with the Al Fakher Crown Bar Crystal 9000 Puffs Disposable Vape, promising quality and indulgence in one device. Equipped with a huge 9000 puff count, this vape lets you enjoy every flavor without needing to recharge or refill very often. It is pre-filled with 18ml e-liquid and delivers a strong and thrilling taste from the first to the last puff. Equipped with a powerful, long-lasting 650mAh battery, this will be a sure path to non-stop satisfaction.Al Fakher is known for nothing but excellence in shisha, and nothing less can be expected from the Crown Bar Crystal. The premium craftsmanship, along with the ease of access, makes it perfect to use anywhere-on-the-go or at home. Moreover, its sleek, crystal-like finish provides an effortless addition to one’s vaping experience with elegance.",
+          "featurePoints": [
+             {
+                "label": "Larger Puff Capacity: ",
+                "value": "Obtain up to 9000 puffs, which, to casual and heavy users, can be weeks without the headache of having to deal with swapping out a device."
+            },
+             {
+                "label": "Super Quality Build: ",
+                "value": "Light, compact, and portable, the Crown Bar Crystal doesn’t cut any corners as far as style and functionality are concerned. It is just as durable as it is sleek."
+            },
+            {
+                "label": "Long-Lasting Battery:",
+                "value": "A 650mAh battery will definitely support the full 9000 puffs so that you are never left in a pinch when your device dies."
+            },
+             {
+                "label": "Rich, Satisfying Flavors:",
+                "value": "With 15 flavors to choose from, Al Fakher keeps offering its tradition of quality taste that really replicates your favorite shisha taste-from fruity to minty and everything in between, there’s a flavor to fit every palate."
+            },
+             {
+                "label": "Smooth Nicotine Delivery: ",
+                "value": "The 5% e liquid nicotine salt strength hits the spot just right-an extremely smooth, satisfying vape without the throat irritation as experienced with higher nicotine levels."
+            }
+
+          ],
+          "availableFlavorsPoints": [
+            {
+                "label": "Banana Ice:",
+                "value": "Smooth and creamy banana flavor with a cool refreshing menthol finish. Great for those who want to vape something fruity but also with a little twist."
+            },
+            {
+                "label": "Blackcurrant:",
+                "value": "Strong and sour blackcurrant taste; with each puff, you are able to taste the essence of berries. Definitely bold and satisfying, for those who love berries."
+            },
+            {
+                "label": "Blueberry:",
+                "value": "Sweet and succulent blueberry flavor, refreshing and indulgent. One for the lovers of fruity vapors."
+            },
+            {
+                "label": "Magic Love:",
+                "value": "A mysterious and enchanting blend of tropical fruits and berries. This flavor is complex and intriguing, offering a new taste experience with every puff."
+            },
+            {
+                "label": "Cola Ice:",
+                "value": "The essence of traditional cola flavor with a cool and icy kick. Cola never felt so refreshing and full of nostalgia; perfect for summer or to keep that cool with a bump of refreshment."
+            },
+            {
+                "label": "Cool Mango:",
+                "value": "Fresh, ripe mangoes with a refreshing, icy finish for a tropical escape."
+            },
+            {
+                "label": "Double Apple:",
+                "value": "Strong and crisp, the flavor puts the two best apples together in their sweet redness with the tart, light zest of a green apple. This is another more traditional choice among shisha lovers."
+            },
+            {
+                "label": "Lemon Lime:",
+                "value": "A citrus blast of lemon and lime for a tangy and refreshing vape."
+            },
+            {
+                "label": "Energy Ice:",
+                "value": "Energizing, lively flavor with a taste profile similar to that of your favorite energy drink with a cool menthol finish-perfect for that boost needed anytime. Grape: Sweet, juicy grape flavor that is rich yet satisfying. Classics never go out of style."
+            },
+            {
+                "label": "Green Mango:",
+                "value": "Green mango is sour in flavor and is sure to bring a cool nature to the vape that will be totally different than most. For the audacious and those favoring incongruous flavors, this one would be a perfect fit."
+            },
+            {
+                "label": "Guava Passionfruit:",
+                "value": "Freshly rich and tropical, guava blends with the tartness of passionfruit, making a person sail away with every inhale to a sunny beach."
+            },
+            {
+                "label": "Lemon:",
+                "value": "The citrusy, zesty value of lemon in this flavor is refreshing and rejuvenating. This would be the perfect e-juice for people who prefer strong, clean cuts in flavor."
+            },
+            {
+                "label": "Mango Peach:",
+                "value": "A sweet, succulent flavor emanates from a tropical fusion of fully ripe mango and juicy peaches, making it exotic and gratifying."
+            },
+            {
+                "label": "Mint:",
+                "value": "Cool, refreshing mint flavor—clean and crisp for those who like something consistent but refreshing."
+            },
+            {
+                "label": "Lush Ice:",
+                "value": "A juicy watermelon flavor paired with cooling menthol finish for perfect all-day vape."
+            },
+            {
+                "label": "Cherry Fiesta",
+                "value": "Sweet, heavy cherry flavor.. Ideal for those who love powerful fruity tastes with a little tartness."
+            }
+          ],
+          "whyYouShouldBuyPoints": [
+            {
+                "label": "Unparalleled Convenience:",
+                "value": "9000 puffs in one vape-no refilling or recharging required. Ideal to have around for a vape that one can rely on. Premium Flavors: Every drag exudes Al Fakher’s rich history in shisha flavors, truly giving the taste one desires. "
+            },
+            {
+                "label": "Premium Feel:",
+                "value": "Al Fakher is a name trusted in the shisha and vape world for creating premium quality products that create an experience worth having. The Crown Bar 15000 Pro Max does not fall behind in performance either and is durable, just like its name."
+            },
+            {
+                "label": "Superior Falvour Quality:",
+                "value": "Every drag exudes Al Fakher’s rich history in shisha flavors, truly giving the taste one desires. "
+            },
+            {
+                "label": "Ease of Use:",
+                "value": "Small and chic, the Crown Bar Crystal 9000 Puffs is both a fashion statement and an efficient vaporizer."
+            },
+            {
+                "label": "Rich, Satisfying Nicotine Delivery:",
+                "value": "Al Fakher is known worldwide for producing high-quality vape products, giving you peace of mind when choosing this device."
+            }
+            
+          ],
+          "whereToBuyShortDescription": "Al FAKHER CROWN BAR CRYSTAL 9000 PUFFS DISPOSABLE Vape is available for purchase from our website, vapepremium.uae Our company offers it at the best market price, guaranteeing fast delivery inside the borders of the UAE to ensure that customers can have it at the right time. ",
+          "faq": [
+            {
+              "question": "How long does the Al Fakher Crown Bar Crystal 9000 Puffs Disposable Vape last?",
+              "answer": "Each device provides up to 9,000 puffs, which can last several weeks depending on your usage habits."
+            },
+            {
+              "question": "Can I recharge the Al Fakher Crown Bar Crystal 9000 Puffs?",
+              "answer": "No, the Al Fakher Crown Bar Crystal is fully disposable. When the puffs are used up, just dispose responsibly."
+            },
+            {
+              "question": "What nicotine strengths are available in the Al Fakher Crown Bar Crystal 9000 Puffs?",
+              "answer": "This device is pre-filled with 5% (50mg) nicotine salt for a smooth and satisfying experience."
+            },
+            {
+              "question": "Are there different flavors available within the same box?",
+              "answer": "Inside the box, there are numerous devices but all are from the same flavor. The different flavors can be ordered separately."
+            }
+          ],
+          "offer": {
+                "isActive": false,
+                "offerPrice": 15
+              },
+          "reviews": [
+                {
+                  "user": "John Doe",
+                  "rating": 5,
+                  "comment": "Amazing flavor, lasted long!"
+                }
+              ]
+        },
+        {
+          "productName": "AL FAKHER CROWN BAR 12000 PUFFS DISPOSABLE VAPE",
+          "slug": "al-fakher-crown-bar-12000-puffs-disposable-vape",
+          "soldOut": false,
+          "thumbnailImage": "https://i.ibb.co.com/ttJmRk8/1.png",
+          "productShortDescription": "The AL FAKHER CROWN BAR 12000 PUFFS DISPOSABLE VAPE is designed to enhance your vaping experience for those who crave both rich experiences and lasting satisfaction. Ideal whether you are new in the game or a pro, this sleekly designed disposable vape has many incredible features. It allows you to experience smooth vaping without any interruption of recharging and refilling or other challenges of maintenance for up to twelve thousand puffs.",
+          "price": 45,    
+          "flavours": [
+            {
+              "flavor": "Hubba",
+              
+                "flavorImage": "https://i.ibb.co.com/Q3KfZ1Gb/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lemon Lime",
+              
+                "flavorImage": "https://i.ibb.co.com/kVDctW4k/3.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Grape Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/Q3qRDFnR/4.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Gum Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/VWGYPWKb/5.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/60XvHx1n/6.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cherry Fiesta",
+              
+                "flavorImage": "https://i.ibb.co.com/9xzPQ0R/6.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blueberry Gum",
+              
+                "flavorImage": "https://i.ibb.co.com/WvzS7PPy/7.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blue Razz Lemonade",
+              
+                "flavorImage": "https://i.ibb.co.com/rVM2WrG/8.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Black Currant Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/5xX0MrRj/9.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lucid Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/TMyy3M90/10.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Black Currant Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/Kxt9fCNB/10.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blueberry Gum",
+              
+                "flavorImage": "https://i.ibb.co.com/k20ftHXS/13.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Berry Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/C5ZLKvjC/11.png",
+              "stock": 5
+            }
+            
+          ],
+          
+          "pointDescription": [
+            {
+                "label": "Nicotine Strength:",
+                "value": "5% (50mg)"
+            },
+            {
+                "label": "Puff Count:",
+                "value": "12,000 puffs"
+            },
+            {
+                "label": "Charging:",
+                "value": "C Port"
+            },
+            {
+                "label": "Rechargeable:",
+                "value": "Yes"
+            },
+            {
+                "label": "Coil:",
+                "value": "Mesh Coil"
+            },
+            {
+                "label": "Premium Design:",
+                "value": "Ergonomic, sleek, and stylish."
+            },
+           
+            {
+                "label": "Flavors:",
+                "value": "Available in too many flavors, with multicolor pod options corresponding to different flavors"
+            },
+            {
+                "label": "Resistance:",
+                "value": "0.6 Ω"
+            },
+            {
+                "label": "Advanced Technology:",
+                "value": "Consistent vapor and flavor delivery."
+            }
+          ],
+           "productDescription": "This premium disposable vape takes vaping pleasure to a whole new level. The AL FAKHER CROWN BAR 12000 PUFFS DISPOSABLE VAPE is for those who want both quality and quantity. Whether you are an occasional vaper or someone who likes their device to last long, the AL FAKHER Crown Bar 12000 puffs does it all in one sleek package. With a puff count that lasts for weeks, a high-capacity battery, and an assortment of juicy flavors, this vape is your perfect companion. In the realm of disposable vapes, AL FAKHER Crown Bar rises above its competitors because it’s not just another device but an experience; simple and yet efficient as well. Forget about charging or refilling—this gadget goes wherever you do. For busy people who need something they can depend on daily, the AL FAKHER CROWN BAR 12000 is just what every office, social outing, and home should have.",
+          "featurePoints": [
+             {
+                "label": "Incomparable Puff Count: ",
+                "value": "The tremendous puff count is one feature that stands out in the AL FAKHER CROWN BAR 12000. By offering up to 12,000 puffs per device, this vape lasts weeks of enjoyment. It’s an ideal choice for those who want a long-lasting device without constantly replacing it with new ones. Therefore AL FAKHER Crown Bar is cost-friendly and convenient, and a high puff count ensures that you have all the time to taste your favorite flavors."
+            },
+             {
+                "label": "High Battery and E-Liquid Capacity:",
+                "value": "To ensure that every puff remains just as satisfying as the last one; The AL FAKHER CROWN BAR 12000 comes with an 850mAh battery and 18 ml e-liquid capacity. This means that the entire 12,000 puffs can be taken without missing any single. Because it has a balance between power and capacity, AL FAKHER Crown Bar is a dependable choice for vapers while traveling."
+            },
+            {
+                "label": "High Nicotine Strength:",
+                "value": "The AL FAKHER Crown Bar delivers on its promise for intense nicotine cravings by utilizing a 5% (50mg) nicotine salt formula. The powerful nicotine strength is smooth and satisfying, providing a throat hit that mimics smoking traditional cigarettes closely. You can rely on the AL FAKHER Crown Bar whether you are moving away from cigarettes or prefer high doses of nicotine."
+            },
+             {
+                "label": "Rich, Satisfying Flavors:",
+                "value": "The AL FAKHER CROWN BAR 12000 comes in 10 distinct flavors which have been perfectly blended to give an enjoyable and rich vaping experience. There is something for everyone, ranging from fruity blends to dessert-inspired ones, in the AL FAKHER Crown Bar series. It helps avoid monotony since one can alternately choose among different tastes depending on their mood or inclination at any particular time of the day."
+            }
+
+          ],
+          "availableFlavorsPoints": [
+            {
+                "label": "Strawberry Watermelon:",
+                "value": "An unbeatable blend of strawberries and sweet watermelon to deliver fruity goodness. Puffs that feel like taking a sip from an ice-cold fruity drink on a scorching summer day."
+            },
+            {
+                "label": "Watermelon Bubblegum:",
+                "value": "A nostalgia-inducing flavor that brings you back to childhood memories. Blended with freshly squeezed watermelons with a twist of hints of bubblegum-like sweetness."
+            },
+            {
+                "label": "Grape Ice:",
+                "value": "Tastes of freshly picked juicy grapes punched off with cool menthol finish. Bold and juicy flavoring"
+            },
+            {
+                "label": "Grape Cherry:",
+                "value": "If evil tasted sweet – A complex flavor profile that compromises concoction of dark grapes and sweet cherries wild fruit lovers combining a blend of both sweet and tart hints."
+            },
+            {
+                "label": "Cola Ice:",
+                "value": "The essence of traditional cola flavor with a cool and icy kick. Cola never felt so refreshing and full of nostalgia; perfect for summer or to keep that cool with a bump of refreshment."
+            },
+            {
+                "label": "Miami Mint:",
+                "value": "A unique and refreshing mint flavor with a tropical twist. This cool and crisp flavor is perfect for those who enjoy a minty fresh vape with a hint of the exotic."
+            },
+            {
+                "label": "Peach Mango Watermelon: ",
+                "value": "A flavor that’s as ripe as it can get combining the juicy sweetness of peaches, mangoes, and watermelons. A perfect choice for zero-nonsense twists and just pure fruit delight."
+            },
+            {
+                "label": "Lemon Lime:",
+                "value": "A citrus blast of lemon and lime for a tangy and refreshing vape."
+            },
+            {
+                "label": "Watermelon:",
+                "value": " A very straightforward taste this flavor is a classic fruit pick, capturing watermelon at its pure and simplest form."
+            }
+          ],
+          "whyYouShouldBuyPoints": [
+            {
+                "label": "Unparalleled Convenience:",
+                "value": "Each AL FAKHER Crown Bar has up to 12,000 puffs in it, distinguishing it in terms of longevity. In other words, it allows you to enjoy your favorite flavors for weeks on end without running over to get a new device now and then. "
+            },
+            {
+                "label": "Premium Feel:",
+                "value": "Al Fakher is a name trusted in the shisha and vape world for creating premium quality products that create an experience worth having. The Crown Bar 15000 Pro Max does not fall behind in performance either and is durable, just like its name."
+            },
+            {
+                "label": "Superior Falvour Quality:",
+                "value": "Availed in 10 mouth-watering flavors, it will definitely never get boring. Whether you like fruity, minty, or dessert-inspired flavors, the AL FAKHER Crown Bar has something that will satisfy every taste bud "
+            },
+            {
+                "label": "Ease of Use:",
+                "value": "AL FAKHER Crown Bar requires little to no effort. With no refills, no recharging, or even maintenance, all you have to do is take it out of the package and vape."
+            },
+            {
+                "label": "Rich, Satisfying Nicotine Delivery:",
+                "value": "Al Fakher is known worldwide for producing high-quality vape products, giving you peace of mind when choosing this device."
+            }
+            
+          ],
+          "whereToBuyShortDescription": "Al FAKHER CROWN BAR CRYSTAL 12000 PUFFS DISPOSABLE Vape is available for purchase from our website, vapepremium.uae Our company offers it at the best market price, guaranteeing fast delivery inside the borders of the UAE to ensure that customers can have it at the right time. ",
+          "faq": [
+            {
+              "question": "How long does the AL FAKHER CROWN BAR 12000 PUFFS DISPOSABLE VAPE last?",
+              "answer": "Each device is up to 12,000 puffs, which can last for several weeks depending on your usage habits."
+            },
+            {
+              "question": "Is the AL FAKHER CROWN BAR 12000 rechargeable?",
+              "answer": " No, the AL FAKHER CROWN BAR 12000 is a fully disposable vape. Once you’ve used up all 12,000 puffs, simply dispose of the device responsibly and replace it with another one."
+            },
+            {
+              "question": "What nicotine strength is available in the AL FAKHER CROWN BAR 12000?",
+              "answer": "With its 5% (50mg) nic salt formula, you are assured of its aggressive yet silky-smooth hit."
+            },
+            {
+              "question": "Can I choose different flavors within the same box?",
+              "answer": "AL FAKHER CROWN BAR 12000 PUFFS DISPOSABLE VAPE generally comes as several devices in the same flavor, but you can easily purchase different flavored boxes if you want to experiment with different flavors."
+            }
+          ],
+          "offer": {
+                "isActive": false,
+                "offerPrice": 15
+              },
+          "reviews": [
+                {
+                  "user": "John Doe",
+                  "rating": 5,
+                  "comment": "Amazing flavor, lasted long!"
+                }
+              ]
+        }
+      ]
+    },
+    {
+        "name": "ELF BAR DISPOSABLE",
+        "slug":"disposable",
+        "types":[
+            {
+          "productName": "Buy ELF BAR Moon Night 40k Puffs Online in UAE",
+          "slug": "buy-elf-bar-moon-night-40k-puffs-online-in-uae",
+          "soldOut": false,
+          "thumbnailImage": "https://i.ibb.co.com/WNNbD2ct/1.png",
+          "productShortDescription": "Buy ELF BAR Moon Night 40k Puffs Online in UAE from Vape Dubai Hub, the Number 1 Online Vape Store in Dubai. With 50mg of nicotine, 40000 puffs, and 17 amazing flavors, this disposable vape gives a rich experience and smooth hits. Order today and enjoy free delivery in Dubai & UAE on orders over 400 AED.",
+          "price": 50,    
+          "flavours": [
+            {
+              "flavor": "Watermelon Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/XrQQpV8V/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Grape Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/bMH3ygmJ/4.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Peach Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/v6thRYZN/3.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cola Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/Y488c49x/5.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Grape Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/6RXk9tq4/6.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cherry Fiesta",
+              
+                "flavorImage": "https://i.ibb.co.com/tpbys0k9/7.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cherry Fiesta",
+              
+                "flavorImage": "https://i.ibb.co.com/tpbys0k9/7.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Cool Mango",
+              
+                "flavorImage": "https://i.ibb.co.com/JwSvy49B/8.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Blue Razz Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/0pfp93TH/6.png",
+              "stock": 5
+            }  
+          ],
+          
+          "pointDescription": [
+            {
+                "label": "Brand:",
+                "value": "ELF Bar"
+            },
+            {
+                "label": "Model:",
+                "value": "Moonlight 40000 Puffs"
+            },
+            {
+                "label": "Nicotine Strength:",
+                "value": "50mg (5%)"
+            },
+            {
+                "label": "Puff Count:",
+                "value": "40000"
+            },
+            {
+                "label": "E-liquid Capacity:",
+                "value": "22 ml"
+            },
+            {
+                "label": "Charging:",
+                "value": "Type C port"
+            },
+            {
+                "label": "Battery:",
+                "value": "850 mah rechargeable"
+            },
+            {
+                "label": "Display:",
+                "value": "Full-screen curved LCD"
+            },
+            {
+                "label": "Airflow:",
+                "value": "Adjustable"
+            },
+            {
+                "label": "Coil Type:",
+                "value": "Dual mesh"
+            },
+            {
+                "label": "Flavors:",
+                "value": "17 delicious options"
+            }
+          ],
+           "productDescription": "Looking for a powerful, flavorful vape with massive puff count? Buy ELF BAR Moon Night 40k Puffs Online in Cheap Price from Vape Dubai Hub, your trusted online vape shop in Dubai and UAE.This device comes with 50mg nicotine, a large 22mL e-liquid capacity, and dual mesh coils for smooth, flavorful hits. With an astonishing 40000 puff count, it delivers long-lasting use with no hassle. Its LCD screen displays battery and juice levels, and the adjustable airflow ensures a tailored vaping experience. Recharge with USB-C for fast power-ups.Order now from Vape Dubai Hub online store, get same-day vape delivery in Dubai, and enjoy free shipping on orders over 400 AED across the UAE.Compare it with our other Best Disposable Vape Products. Like Premium Elfbar e-shisha luxe 30000 Puffs or Elfbar Raya D3 25000 Puffs to see why ELF BAR Moon Night 40000 Puffs Online in UAE is preferred by customers.",
+          "featurePoints": [
+             {
+                "label": "Extended Puff Capacity:",
+                "value": "Massive 40000 puff capacity"
+            },
+             {
+                "label": "High-strength 50mg nicotine",
+                "value": "The 50mg nicotine level provides a balanced throat hit that satisfies cravings without overwhelming, making it perfect for everyday vaping."
+            },
+            {
+                "label": "Elegant, Portable Design:",
+                "value": "Smart LCD screen with puff & battery indicator"
+            },
+             {
+                "label": "Ready to Use:",
+                "value": "No buttons, no refilling – just unbox and start enjoying your vape. It’s an ideal choice for vapers seeking convenience."
+            },
+             {
+                "label": "Flavorful Experience:",
+                "value": "Choose from a selection of 11 mouth-watering flavors that deliver consistent, rich, and satisfying hits with every puff."
+            }
+
+          ],
+          "availableFlavorsPoints": [
+            {
+                "label": "Black Currant Mint",
+                "value": "A refreshing blend of tangy black currant with a cooling mint finish."
+            },
+            {
+                "label": "Blue Ocean:",
+                "value": "Dive into this smooth, oceanic blend of sweet and citrusy notes."
+            },
+            {
+                "label": "Blue Razz Lemonade:",
+                "value": "A zesty lemonade twist with the tangy bite of blue raspberry."
+            },
+            {
+                "label": "Blueberry Gum:",
+                "value": "Experience a nostalgic bubblegum flavor with a blueberry twist."
+            },
+            {
+                "label": "Cherry Fiesta:",
+                "value": "A burst of sweet cherry goodness that leaves a delightful aftertaste."
+            },
+            {
+                "label": "Cool Mango:",
+                "value": "Fresh, ripe mangoes with a refreshing, icy finish for a tropical escape."
+            },
+            {
+                "label": "Grape Mint:",
+                "value": "Juicy grapes meet a minty cool sensation in this fruity-fresh combo."
+            },
+            {
+                "label": "Lemon Lime:",
+                "value": "A citrus blast of lemon and lime for a tangy and refreshing vape."
+            },
+            {
+                "label": "Mango Pineapple:",
+                "value": "A tropical fusion of succulent mango and pineapple for a sweet and exotic hit."
+            },
+            {
+                "label": "Space Dream:",
+                "value": "An out-of-this-world mix of sweet and fruity flavors that feels cosmic."
+            },
+            {
+                "label": "Hubba:",
+                "value": "A playful and fruity flavor reminiscent of your favorite childhood bubblegum."
+            }
+          ],
+          "whyYouShouldBuyPoints": [
+            {
+                "label": "High Puff Count:",
+                "value": "No need to worry about replacing your vape too soon; 15,000 puffs ensure longevity."
+            },
+            {
+                "label": "Premium Flavor Selection:",
+                "value": "Choose from an array of exciting, well-balanced flavors that cater to all taste preferences."
+            },
+            {
+                "label": "Hassle-Free:",
+                "value": "Pre-filled and pre-charged, this disposable vape is ready to use out of the box, offering a convenient and satisfying vaping experience."
+            },
+            {
+                "label": "Nicotine Strength:",
+                "value": "6mg of nicotine delivers the perfect balance for those looking for a smooth but satisfying nicotine hit."
+            },
+            {
+                "label": "Trusted Brand: ",
+                "value": "Al Fakher is known worldwide for producing high-quality vape products, giving you peace of mind when choosing this device."
+            }
+            
+          ],
+          "whereToBuyShortDescription": "You can buy ELF BAR Moon Night 40k Puffs Online in UAE at Vape Premium UAE, the top-rated online vape store in Dubai.",
+          "faq": [
+            {
+              "question": "How long does ELF BAR Moon Night 40000 last?",
+              "answer": "It lasts for several weeks, depending on daily usage, offering up to 40000 puffs."
+            },
+            {
+              "question": "Is 50mg nicotine ELF BAR legal in Dubai?",
+              "answer": "Yes, 50mg vapes are legal for adult use in the UAE."
+            },
+            {
+              "question": "Where can I find to buy ELF BAR Moon Night 40k puffs near me in Dubai?",
+              "answer": "Order from the Vape Dubai Hub online store for fast, local delivery in Dubai."
+            },
+            {
+              "question": "ELF BAR Moon Night 40000 vs TE6000 – Which is better?",
+              "answer": "The Moon Night offers more puffs, an LCD display, and USB-C recharge, making it a better long-use option."
+            },
+            {
+              "question": "Which ELF BAR Moon Night flavor is best?",
+              "answer": "Bestsellers include Blackberry Ice, Strawberry Mango, and Cola Ice."
+            }
+          ],
+          "offer": {
+                "isActive": false,
+                "offerPrice": 15
+              },
+          "reviews": [
+                {
+                  "user": "John Doe",
+                  "rating": 5,
+                  "comment": "Amazing flavor, lasted long!"
+                }
+              ]
+            }
+
+        ]
+    },
+    {
+        "name": "FUMMO DISPOSABLE",
+        "slug":"disposable",
+        "types":[
+            {
+          "productName": "Buy Fummo Power 15000 Puffs in Dubai",
+          "slug": "buy-fummo-power-15000-puffs-in-dubai",
+          "soldOut": false,
+          "thumbnailImage": "https://i.ibb.co.com/GQfHMxwd/1.png",
+          "productShortDescription": "Buy Fummo Power 15000 Puffs In Dubai and enjoy the true freedom with the high-capacity disposable vape. It’s designed for serious users. Pre-filled, pre-charged, and packed with 15 smooth flavors, this device delivers up to 15000 puffs with 20mg nicotine strength. Ideal for anyone who wants zero maintenance and full satisfaction.",
+          "price": 50,    
+          "flavours": [
+            {
+              "flavor": "Mixed Berries",
+              "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Strawberry Watermelon",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Fresh Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Strawberry Mango",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Grape Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/6RXk9tq4/6.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Watermelon Bubbblegum",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mango Passion Fruit",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Grape",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mango Peach",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            } , 
+            {
+              "flavor": "Double Apple",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            } , 
+            {
+              "flavor": "Malaysian Mango",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            } , 
+            {
+              "flavor": "Blackberry Rasberry",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            } , 
+            {
+              "flavor": "Blueberry",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            } , 
+            {
+              "flavor": "Watermelon",
+              "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            } , 
+            {
+              "flavor": "Blueberry Watermelon",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            } , 
+            {
+              "flavor": "Peach Mango Watermelon",
+              
+                "flavorImage": "https://i.ibb.co.com/Z1WWHZ9y/2.png",
+              "stock": 5
+            }
+          ],
+          
+          "pointDescription": [
+            {
+                "label": "Brand:",
+                "value": "Fummo"
+            },
+            {
+                "label": "Model:",
+                "value": "Fummo Power 15000 Puffs"
+            },
+            {
+                "label": "Nicotine Strength:",
+                "value": "20mg (2%) Nicotine Salts"
+            },
+            {
+                "label": "Puff Count:",
+                "value": "Up to 15,000 puffs"
+            },
+            {
+                "label": "E-liquid Capacity:",
+                "value": "22 ml"
+            },
+            {
+                "label": "Charging:",
+                "value": "No Need"
+            },
+            {
+                "label": "Coil Type:",
+                "value": "1.2 ohm"
+            },
+            {
+                "label": "Flavors:",
+                "value": "15 delicious options"
+            }
+          ],
+           "productDescription": "Buy Fummo Power 15000 Puffs in Dubai to take your vaping to the next level. Fummo Power 15000 Puffs Disposable Vape is one of the top choice vape for long-lasting and flavorful sessions. Its Designed for convenience, this disposable vape offers effortless performance with no buttons, charging, or refilling. Just unwrap and enjoy.Each device contains 20mg of salt nicotine for a rich throat hit. It’s combined with 15 unique flavors that range from fruity to classic. Whether you’re at home, work, or on the go, this vape is your daily companion.Buy Fummo Power 15000 Puffs in Dubai today and get it delivered fast from Vape Dubai Hub.",
+          "featurePoints": [
+             {
+                "label": "Extended Puff Capacity:",
+                "value": "Massive 15,000 puff capacity."
+             },
+             {
+                "label": "High-strength 50mg nicotine",
+                "value": "Smooth and satisfying 20mg nicotine delivery."
+            },
+             {
+                "label": "Ready to Use:",
+                "value": "No buttons, no refilling – just unbox and start enjoying your vape. It’s an ideal choice for vapers seeking convenience."
+            },
+             {
+                "label": "Flavorful Experience:",
+                "value": "Choose from 15 great-tasting flavors."
+            }
+
+          ],
+          "availableFlavorsPoints": [
+            {
+                "label": "Mixed Berries:",
+                "value": "A refreshing blend of tangy black currant with a cooling mint finish."
+            },
+            {
+                "label": "Strawberry Watermelon:",
+                "value": "Dive into this smooth, oceanic blend of sweet and citrusy notes."
+            },
+            {
+                "label": "Fresh Mint:",
+                "value": "A zesty lemonade twist with the tangy bite of blue raspberry."
+            },
+            {
+                "label": "Blueberry Gum:",
+                "value": "Experience a nostalgic bubblegum flavor with a blueberry twist."
+            },
+            {
+                "label": "Strawberry Mango:",
+                "value": "A burst of sweet cherry goodness that leaves a delightful aftertaste."
+            },
+            {
+                "label": "Cool Mango:",
+                "value": "Fresh, ripe mangoes with a refreshing, icy finish for a tropical escape."
+            },
+            {
+                "label": "Watermelon Bubblegum:",
+                "value": "Juicy grapes meet a minty cool sensation in this fruity-fresh combo."
+            },
+            {
+                "label": " Mango Passion Fruit:",
+                "value": "A citrus blast of lemon and lime for a tangy and refreshing vape."
+            },
+            {
+                "label": "Grape:",
+                "value": "A tropical fusion of succulent mango and pineapple for a sweet and exotic hit."
+            },
+            {
+                "label": "Mango Peach:",
+                "value": "An out-of-this-world mix of sweet and fruity flavors that feels cosmic."
+            },
+            {
+                "label": " Double Apple:",
+                "value": "A playful and fruity flavor reminiscent of your favorite childhood bubblegum."
+            },
+            {
+                "label": "Malaysian Mango:",
+                "value": "A playful and fruity flavor reminiscent of your favorite childhood bubblegum."
+            },
+            {
+                "label": "Malaysian Mango:",
+                "value": "A playful and fruity flavor reminiscent of your favorite childhood bubblegum."
+            }
+          ],
+          "whyYouShouldBuyPoints": [
+            {
+                "label": "High Puff Count:",
+                "value": "No need to worry about replacing your vape too soon; 15,000 puffs ensure longevity."
+            },
+            {
+                "label": "Premium Flavor Selection:",
+                "value": "Choose from an array of exciting, well-balanced flavors that cater to all taste preferences."
+            },
+            {
+                "label": "Hassle-Free:",
+                "value": "Pre-filled and pre-charged, this disposable vape is ready to use out of the box, offering a convenient and satisfying vaping experience."
+            },
+            {
+                "label": "Nicotine Strength:",
+                "value": "6mg of nicotine delivers the perfect balance for those looking for a smooth but satisfying nicotine hit."
+            },
+            {
+                "label": "Trusted Brand: ",
+                "value": "Al Fakher is known worldwide for producing high-quality vape products, giving you peace of mind when choosing this device."
+            }
+            
+          ],
+          "whereToBuyShortDescription": "You can buy  Fummo Power 15000 Puffs in Dubai  Online in UAE at Vape Premium UAE, the top-rated online vape store in Dubai.",
+          "faq": [
+            {
+              "question": "Is the Fummo Power 15000 rechargeable Vape?",
+              "answer": "No. It’s a fully disposable device. Use it and throw it away responsibly."
+            },
+            {
+              "question": "How many flavors are available at Fummo Power 15k Puff?",
+              "answer": "There are 15 flavors, including fruity, icy, and classic options."
+            },
+            {
+              "question": "What is the nicotine strength In Fummo Power 1500 Puffs?",
+              "answer": "20mg salt nicotine for a smooth vaping experience."
+            },
+            {
+              "question": " Where I Can Buy Fummo Power 15000 Puffs in Dubai?",
+              "answer": "From Vape Dubai Hub – we offer fast delivery and authentic products."
+            },
+            {
+              "question": "Is it available for bulk orders?",
+              "answer": "Yes we have wholesale offer, you can Order Fummo Power 15000 wholesale in Dubai."
+            }
+          ],
+          "offer": {
+                "isActive": false,
+                "offerPrice": 15
+              },
+          "reviews": [
+                {
+                  "user": "John Doe",
+                  "rating": 5,
+                  "comment": "Amazing flavor, lasted long!"
+                }
+              ]
+            }
+        ]
+    }    
+  ]
+},
+{
+    "category":"juul",
+    "slug": "juul",
+    "brands":[
+        {
+            "name":"juul",
+            "slug":"juul",
+            "types":[
+                {
+          "productName": "Buy JUUL 2 Device in UAE At Affordable Price",
+          "slug": "buy-jull-2-device-in-uae-at-affordable-price",
+          "soldOut": false,
+          "thumbnailImage": "https://i.ibb.co.com/rGRtr1vf/ALPHONSO-MANGO.png",
+          "productShortDescription": "Get the top-quality JUUL 2 Device in UAE at Vape Dubai Hub. It’s designed to deliver a smoother, more satisfying vaping experience. With enhanced features, a sleek design, and easy-to-use pods, it’s perfect for both new and experienced vapers in Dubai.",
+          "price": 150,    
+          "flavours": [],
+          "pointDescription": [
+            {
+                "label": "Device Type:",
+                "value": "Closed pod system"
+            },
+            {
+                "label": "Battery Capacity:",
+                "value": "250mAh rechargeable battery"
+            },
+            {
+                "label": "Pod Capacity:",
+                "value": "1.2ml JUUL pods (sold separately)"
+            },
+            {
+                "label": "Charging:",
+                "value": "USB-C fast charging"
+            },
+            {
+                "label": "Colors Available:",
+                "value": "Graphite, Silver"
+            }
+          ],
+           "productDescription": "Welcome to the Vape Dubai Hub Shop for vaping with the High-quality JUUL 2 Device In UAE. This product designed to redefine simplicity and satisfaction in the world of vaping. Whether you’re just starting out or are a seasoned vaper, the JUUL 2 offers a seamless, hassle-free experience that fits perfectly into your lifestyle. Designed with cutting-edge technology and crafted with premium materials, the JUUL 2 is more than just a vape; it’s a statement of sophistication.In Dubai, where the vaping community is rapidly growing, this device stands out as a top choice for those who want a reliable and high-quality vaping experience. This sleek, compact device is easy to carry, simple to use, and designed to provide a consistent and satisfying hit every time. With its intuitive design and the ability to easily switch between flavors, the JUUL 2 is perfect for on-the-go vaping, whether you’re at work, out with friends, or relaxing at home.",
+          "featurePoints": [
+            {
+                "label": "Enhanced Vapor Production:",
+                "value": "The JUUL 2 has been engineered to deliver a richer, more flavorful vapor with every puff. This is achieved through a more powerful battery and optimized pod technology, ensuring that each hit is smooth, satisfying, and full of flavor. Whether you prefer a strong throat hit or a milder experience, the JUUL 2 adjusts to your needs, making every puff enjoyable."
+            },
+             {
+                "label": "Sleek and Modern Design: ",
+                "value": "The JUUL 2’s design is both minimalist and elegant, fitting seamlessly into any setting. Its slim profile makes it easy to carry in your pocket or purse, and the high-quality materials used in its construction give it a premium feel. Available in stylish colors like Graphite and Silver, the JUUL 2 is not just a device but an accessory that complements your style. "
+            },
+            {
+                "label": "USB-C Fast Charging:",
+                "value": "One of the significant upgrades in the JUUL 2 is the introduction of USB-C fast charging. This feature means that your device can be fully charged in a fraction of the time, ensuring that you’re never without your vape. The 250mAh battery is designed to last throughout the day, providing ample power for extended vaping sessions without frequent recharging."
+            },
+             {
+                "label": "Closed Pod System:",
+                "value": "The JUUL 2 Device In UAE uses a closed pod system, which means there’s no need to refill with e-liquid or replace coils. Simply insert a JUUL pod, and you’re ready to go. The pods are leak-resistant and easy to replace, making the JUUL 2 one of the most convenient devices available. The pods are designed to deliver consistent flavor and vapor, ensuring a satisfying experience every time."
+            },
+             {
+                "label": "Variety of Flavors:",
+                "value": "The JUUL 2 is compatible with a range of JUUL pods, offering a variety of flavors to suit every palate. Whether you prefer the rich taste of tobacco, the freshness of mint, or the sweetness of fruit, there’s a flavor for you. The ease of switching pods allows you to change flavors effortlessly, giving you the flexibility to choose your vaping experience."
+            }
+
+          ],
+          "availableFlavorsPoints": [
+            {
+                "label": "Virginia Tobacco:",
+                "value": "A classic and rich tobacco flavor that closely mimics the taste of traditional cigarettes. Perfect for those transitioning from smoking to vaping."
+            },
+            {
+                "label": "Menthol:",
+                "value": "A refreshing minty flavor with a cool, crisp finish. It’s perfect for vapers who enjoy a clean, invigorating vape."
+            },
+            {
+                "label": "Mango Nectar:",
+                "value": "Sweet, ripe mangoes with a hint of tropical sunshine. This flavor is fruity and refreshing, ideal for summer vaping."
+            },
+            {
+                "label": "Royal Creme:",
+                "value": "A smooth, creamy flavor with hints of vanilla. It’s a luxurious choice for those who prefer a rich and sweet vape."
+            }
+          ],
+          "whyYouShouldBuyPoints": [
+            {
+                "label": "Ease of Use: ",
+                "value": "The JUUL Device is designed with simplicity in mind. There’s no need to worry about complicated settings or maintenance. Just insert a pod, take a puff, and enjoy."
+            },
+            {
+                "label": "Portability:",
+                "value": "With its sleek, compact design, the JUUL 2 is perfect for vaping on the go. It fits easily into your pocket or bag, making it an ideal companion for your busy lifestyle."
+            },
+            {
+                "label": "Quality:",
+                "value": "JUUL is a trusted name in the vaping industry, known for its high-quality products. The JUUL 2 continues this tradition, offering a device that is both durable and reliable."
+            },
+            {
+                "label": "Flavor Variety:",
+                "value": "With a wide range of flavors available, the JUUL 2 allows you to enjoy different tastes without having to switch devices. Whether you’re in the mood for something fruity, minty, or classic, there’s a pod for you"
+            }
+            
+          ],
+          "whereToBuyShortDescription": "You can purchase the Al Fakher Crown Bar 15000 Hypermax Disposable Vape from vapepremium.uae, your trusted destination for premium vape products. Shop now and enjoy fast, reliable shipping across Dubai.",
+          "faq": [
+            {
+              "question": "What is the battery capacity of the JUUL 2 Device?",
+              "answer": "  The JUUL 2 Device has a 250mAh rechargeable battery, providing enough power for a full day of vaping."
+            },
+            {
+              "question": "Can I use other pods with this Device?",
+              "answer": "No, the JUUL 2 Device is designed to work exclusively with JUUL pods. Using other pods may damage the device and void the warranty."
+            },
+            {
+              "question": "How do I charge this Device? ",
+              "answer": "The JUUL 2 Device uses USB-C fast charging. Simply connect the device to a USB-C cable, and it will be fully charged in no time."
+            },
+            {
+              "question": "Is the JUUL 2 Device In UAE suitable for beginners?",
+              "answer": "Yes, the JUUL 2 Device In UAE is perfect for beginners due to its simple, user-friendly design. There’s no need for complicated settings or maintenance—just insert a pod and start vaping."
+            },
+            {
+              "question": "What flavors are available?",
+              "answer": " What flavors are available for this Device?"
+            }
+          ],
+          "offer": {
+                "isActive": false,
+                "offerPrice": 15
+              },
+          "reviews": [
+                {
+                  "user": "John Doe",
+                  "rating": 5,
+                  "comment": "Amazing flavor, lasted long!"
+                }
+              ]
+                }
+            ] 
+        }
+    ]
+}
+
+]
