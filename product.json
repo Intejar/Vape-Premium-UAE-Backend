@@ -5,9 +5,10 @@
   "brands": [
     {
       "name": "Al FAKHER",
-      "slug": "disposable",
+      "slug": "al-fakher",
       "types": [
         {
+          "id": 1,
           "productName": "Al Fakher Crown Bar 15000 Hypermax Disposable Vape",
           "slug": "al-fakher-crown-bar-15000-hypermax-disposable-vape",
           "soldOut": false,
@@ -265,6 +266,7 @@
               ]
         },
         {
+          "id": 2,
           "productName": "Al Fakher Crown Bar 15000 Pro Max Disposable Vape",
           "slug": "al-fakher-crown-bar-15000-pro-max-disposable-vape",
           "soldOut": false,
@@ -590,6 +592,7 @@
               ]
         },
         {
+          "id": 3,
           "productName": "Al Fakher Crown Bar Crystal 9000 Puffs Disposable Vape",
           "slug": "al-fakher-crown-bar-crystal-9000-puffs-disposable-vape",
           "soldOut": false,
@@ -881,6 +884,7 @@
               ]
         },
         {
+          "id": 4,
           "productName": "AL FAKHER CROWN BAR 12000 PUFFS DISPOSABLE VAPE",
           "slug": "al-fakher-crown-bar-12000-puffs-disposable-vape",
           "soldOut": false,
@@ -1124,9 +1128,10 @@
     },
     {
         "name": "ELF BAR DISPOSABLE",
-        "slug":"disposable",
+        "slug":"elf-bar-disposable",
         "types":[
             {
+              "id": 6,
           "productName": "Buy ELF BAR Moon Night 40k Puffs Online in UAE",
           "slug": "buy-elf-bar-moon-night-40k-puffs-online-in-uae",
           "soldOut": false,
@@ -1369,9 +1374,10 @@
     },
     {
         "name": "FUMMO DISPOSABLE",
-        "slug":"disposable",
+        "slug":"fummo-disposable",
         "types":[
             {
+              "id": 7,
           "productName": "Buy Fummo Power 15000 Puffs in Dubai",
           "slug": "buy-fummo-power-15000-puffs-in-dubai",
           "soldOut": false,
@@ -1654,6 +1660,7 @@
             "slug":"juul",
             "types":[
                 {
+                  "id": 25,
           "productName": "Buy JUUL 2 Device in UAE At Affordable Price",
           "slug": "buy-jull-2-device-in-uae-at-affordable-price",
           "soldOut": false,
