@@ -1,6 +1,7 @@
-const express = require("express");
-const cors = require("cors");
-const { MongoClient, ServerApiVersion, ObjectId } = require("mongodb");
+import express from "express";
+import Fuse from "fuse.js";
+import cors from "cors";
+import { MongoClient, ServerApiVersion, ObjectId } from "mongodb";
 
 const app = express();
 const port = 5000;
@@ -20,8 +21,61 @@ async function run() {
 
     // all product
     app.get("/products", async (req, res) => {
-      const result = await productsCollection.find({}).toArray();
-      res.send(result);
+      try {
+        const { search, category } = req.query;
+
+        // Step 1: Build MongoDB query for category (if provided)
+        const mongoQuery = {};
+        if (category && category.trim() !== "") {
+          mongoQuery.category = { $regex: category.trim(), $options: "i" };
+        }
+
+        // Step 2: Get data from MongoDB
+        const data = await productsCollection.find(mongoQuery).toArray();
+
+        // Step 3: Flatten nested structure into single product list
+        let products = [];
+        data.forEach((cat) => {
+          cat.brands?.forEach((brand) => {
+            brand.types?.forEach((type) => {
+              products.push({
+                ...type,
+                category: cat.category,
+                brand: brand.name,
+              });
+            });
+          });
+        });
+
+        // ✅ Step 4: If no queries, just return all products
+        const hasSearch = search && search.trim() !== "";
+        const hasCategory = category && category.trim() !== "";
+        if (!hasSearch && !hasCategory) {
+          return res.send(products);
+        }
+
+        // ✅ Step 5: Apply fuzzy search if search query is provided
+        if (hasSearch) {
+          const fuse = new Fuse(products, {
+            keys: [
+              "productName",
+              "productShortDescription",
+              "brand",
+              "category",
+            ],
+            threshold: 0.4, // 0 (exact match) → 1 (very loose)
+          });
+
+          const results = fuse.search(search.trim());
+          products = results.map((r) => r.item);
+        }
+
+        // ✅ Step 6: Return filtered or searched results
+        res.send(products);
+      } catch (error) {
+        console.error("Error fetching products:", error);
+        res.status(500).send({ error: "Failed to fetch products" });
+      }
     });
     // all category
     app.get("/products/category", async (req, res) => {
