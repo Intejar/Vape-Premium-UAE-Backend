@@ -29,6 +29,15 @@ async function run() {
       const categories = data.map((item) => item.category);
       res.send(categories);
     });
+    // all category
+    app.get("/category/:category", async (req, res) => {
+      const data = await productsCollection.find({}).toArray();
+      const { category } = req.params;
+      const categoryDoc = await productsCollection.findOne({
+        category: category,
+      });
+      res.send(categoryDoc.brands);
+    });
     // all type product
     app.get("/products/:category/:brand", async (req, res) => {
       try {
@@ -45,7 +54,7 @@ async function run() {
         }
 
         const brandData = categoryDoc.brands.find(
-          (b) => b.name.toLowerCase() === brand.toLowerCase()
+          (b) => b.slug.toLowerCase() === brand.toLowerCase()
         );
 
         if (!brandData) {
