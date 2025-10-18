@@ -257,7 +257,7 @@ async function run() {
         res.status(500).json({ message: "Internal server error" });
       }
     });
-
+    // track order
     app.get("/track/:orderId", async (req, res) => {
       try {
         const { orderId } = req.params;
@@ -278,6 +278,45 @@ async function run() {
       } catch (error) {
         console.error("Error fetching order:", error);
         res.status(500).json({ message: "Internal server error" });
+      }
+    });
+
+    // latest product
+    app.get("/latestProducts", async (req, res) => {
+      try {
+        // Step 1: Get the latest categories from MongoDB (sorted by _id)
+        const data = await productsCollection
+          .find({})
+          .sort({ _id: -1 }) // sort newest first
+          .limit(10) // fetch more in case nested structure varies
+          .toArray();
+
+        // Step 2: Flatten nested products
+        let allProducts = [];
+        data.forEach((cat) => {
+          cat.brands?.forEach((brand) => {
+            brand.types?.forEach((type) => {
+              allProducts.push({
+                ...type,
+                category: cat.category,
+                brand: brand.name,
+                createdAt: cat._id.getTimestamp(), // extract date from ObjectId
+              });
+            });
+          });
+        });
+
+        // Step 3: Sort by creation time (latest first)
+        allProducts.sort((a, b) => b.createdAt - a.createdAt);
+
+        // Step 4: Limit to 3–4 latest items
+        const latestProducts = allProducts.slice(0, 4);
+
+        // Step 5: Return to frontend
+        res.send(latestProducts);
+      } catch (error) {
+        console.error("Error fetching latest products:", error);
+        res.status(500).send({ error: "Failed to fetch latest products" });
       }
     });
   } finally {
