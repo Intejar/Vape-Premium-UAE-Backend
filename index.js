@@ -24,10 +24,14 @@ async function run() {
       res.send(result);
     });
     // all category
-    app.get("/products/category", async (req, res) => {
+    app.get("/products/:category", async (req, res) => {
       const data = await productsCollection.find({}).toArray();
-      const categories = data.map((item) => item.category);
-      res.send(categories);
+      const { category } = req.params;
+      const categoryDoc = await productsCollection.findOne({
+        category: category,
+      });
+      // const categories = data.map((item) => item.category);
+      res.send(categoryDoc);
     });
     // all type product
     app.get("/products/:category/:brand", async (req, res) => {
