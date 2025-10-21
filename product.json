@@ -1368,6 +1368,227 @@
                   "comment": "Amazing flavor, lasted long!"
                 }
               ]
+            },
+            {
+              "id": 7,
+          "productName": "Order Elfbar e-shisha luxe 30000 in Dubai",
+          "slug": "order-elfbar-e-shisha-luxe-30000-in-dubai",
+          "soldOut": false,
+          "thumbnailImage": "https://i.ibb.co.com/SwZb0nt9/1.png",
+          "productShortDescription": "Order Elfbar e-shisha luxe 30000 in Dubai today from Vape Dubai Hub and enjoy up to 30,000 puffs of smooth and rich flavor. This disposable vape is stylish, rechargeable, anddesigned with 14 bold flavors to keep your sessions fresh and satisfying with the",
+          "price": 50,    
+          "flavours": [
+            {
+              "flavor": "Grape Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/pvFpWMmx/2.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Lemon Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/PJ9sfBb/3.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Peach Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/LdMdfrf8/4.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Mango Ice",
+              
+                "flavorImage": "https://i.ibb.co.com/RxKKYH5/5.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Grape Mint",
+              
+                "flavorImage": "https://i.ibb.co.com/6RXk9tq4/6.png",
+              "stock": 5
+            },
+            {
+              "flavor": "Strawberry Watermelon",
+              
+                "flavorImage": "https://i.ibb.co.com/6Rd1MsHH/6.png",
+              "stock": 5
+            }
+          ],
+          
+          "pointDescription": [
+            {
+                "label": "Brand:",
+                "value": "ELF Bar"
+            },
+            {
+                "label": "Model:",
+                "value": "E‑Shisha Luxe 30000 Puffs"
+            },
+            {
+                "label": "Nicotine Strength:",
+                "value": "50mg (5%)"
+            },
+            {
+                "label": "Puff Count:",
+                "value": "Up to 30000"
+            },
+            {
+                "label": "E-liquid Capacity:",
+                "value": "25 ml"
+            },
+            {
+                "label": "Charging:",
+                "value": "Type C port"
+            },
+            {
+                "label": "Battery:",
+                "value": "1000 mah rechargeable"
+            },
+            {
+                "label": "Display:",
+                "value": "Fire Button + Battery & Liquid Display"
+            },
+            {
+                "label": "Adjustable Modes:",
+                "value": "2 Inhalation × 3 Cloud = 6 DTL Modes"
+            },
+            {
+                "label": "Coil Type:",
+                "value": "Dual mesh"
+            },
+            {
+                "label": "Device Size:",
+                "value": "Approx. 35 mm × 122 mm"
+            }
+          ],
+           "productDescription": "If you’re looking for a smooth, flavorful, and long-lasting vape, order Elfbar e-shisha luxe 30000 in Dubai now and experience what makes it one of the top-selling Elfbar vape in UAE. Designed with dual mesh coils and a 1000mAh rechargeable battery, this disposable vape delivers consistent flavor and vapor till the last puff. With 14 different flavors, it’s more than just a vape—it’s a complete experience. Whether you enjoy fruit blends like strawberry watermelon, cooling notes like lemon mint, or the boldness of double apple, there’s a flavor waiting for you. This device supports 6 DTL modes, offering a custom cloud and inhale experience unlike anything else. Plus, it’s compact, easy to use, and includes a fire button with display to show battery and e-liquid levels. Whether you’re new or a regular user, this is the perfect option to buy Elfbar rechargeable vape in Dubai with quick delivery",
+          "featurePoints": [
+             {
+                "label": "Extended Puff Capacity:",
+                "value": "Massive 30000 puff capacity"
+            },
+             {
+                "label": "High-strength 50mg nicotine",
+                "value": "The 50mg nicotine level provides a balanced throat hit that satisfies cravings without overwhelming, making it perfect for everyday vaping."
+            },
+            {
+                "label": "Elegant, Portable Design:",
+                "value": "Built-in display for battery and liquid"
+            },
+             {
+                "label": "Ready to Use:",
+                "value": "No buttons, no refilling – just unbox and start enjoying your vape. It’s an ideal choice for vapers seeking convenience."
+            },
+             {
+                "label": "Flavorful Experience:",
+                "value": "Choose from a selection of 11 mouth-watering flavors that deliver consistent, rich, and satisfying hits with every puff."
+            }
+
+          ],
+          "availableFlavorsPoints": [
+            {
+                "label": "Lemon Mint:",
+                "value": "A refreshing blend of tangy black currant with a cooling mint finish."
+            },
+            {
+                "label": "Frozen Blueberry:",
+                "value": "Dive into this smooth, oceanic blend of sweet and citrusy notes."
+            },
+            {
+                "label": "Double Apple:",
+                "value": "A zesty lemonade twist with the tangy bite of blue raspberry."
+            },
+            {
+                "label": "Grape Raspberry:",
+                "value": "Experience a nostalgic bubblegum flavor with a blueberry twist."
+            },
+            {
+                "label": "Strawberry Watermelon:",
+                "value": "A burst of sweet cherry goodness that leaves a delightful aftertaste."
+            },
+            {
+                "label": "Mango Ice:",
+                "value": "Fresh, ripe mangoes with a refreshing, icy finish for a tropical escape."
+            },
+            {
+                "label": "Watermelon Mint:",
+                "value": "Juicy grapes meet a minty cool sensation in this fruity-fresh combo."
+            },
+            {
+                "label": "Peach Ice:",
+                "value": "A citrus blast of lemon and lime for a tangy and refreshing vape."
+            },
+            {
+                "label": "Grape Mint:",
+                "value": "A tropical fusion of succulent mango and pineapple for a sweet and exotic hit."
+            },
+            {
+                "label": "Melon Mint:",
+                "value": "An out-of-this-world mix of sweet and fruity flavors that feels cosmic."
+            },
+            {
+                "label": "Bubblegum Mint:",
+                "value": "A playful and fruity flavor reminiscent of your favorite childhood bubblegum."
+            }
+          ],
+          "whyYouShouldBuyPoints": [
+            {
+                "label": "High Puff Count:",
+                "value": "No need to worry about replacing your vape too soon; 30,000 puffs ensure longevity."
+            },
+            {
+                "label": "Premium Flavor Selection:",
+                "value": "Choose from an array of exciting, well-balanced flavors that cater to all taste preferences."
+            },
+            {
+                "label": "Hassle-Free:",
+                "value": "Pre-filled and pre-charged, this disposable vape is ready to use out of the box, offering a convenient and satisfying vaping experience."
+            },
+            {
+                "label": "Nicotine Strength:",
+                "value": "50mg of nicotine delivers the perfect balance for those looking for a smooth but satisfying nicotine hit."
+            },
+            {
+                "label": "Trusted Brand: ",
+                "value": "Elf Bar is known worldwide for producing high-quality vape products, giving you peace of mind when choosing this device."
+            }
+            
+          ],
+          "whereToBuyShortDescription": "You can buy ELF BAR Moon Night 40k Puffs Online in UAE at Vape Premium UAE, the top-rated online vape store in Dubai.",
+          "faq": [
+            {
+              "question": "What is Elfbar e-shisha luxe 30000?",
+              "answer": "It’s a high-capacity disposable vape with 30,000 puffs, 25ml liquid, and a rechargeable battery."
+            },
+            {
+              "question": "How long does Elfbar 30000 puffs last?",
+              "answer": "It can last from several days to weeks depending on usage."
+            },
+            {
+              "question": "How many flavors in Elfbar Luxe 30000 UAE?",
+              "answer": "14 popular flavors available at Vape Premium UAE"
+            },
+            {
+              "question": "Is it disposable or refillable?",
+              "answer": "It’s disposable but rechargeable."
+            },
+            {
+              "question": "Can I get it with delivery in Dubai?",
+              "answer": " Yes. We offer Elfbar e-shisha luxe 30000 puffs delivery in Dubai and across the UAE."
+            }
+          ],
+          "offer": {
+                "isActive": false,
+                "offerPrice": 45
+              },
+          "reviews": [
+                {
+                  "user": "John Doe",
+                  "rating": 5,
+                  "comment": "Amazing flavor, lasted long!"
+                }
+              ]
             }
 
         ]

@@ -206,11 +206,19 @@ async function run() {
             .send({ error: "Payload is missing or invalid" });
         }
 
-        const result = await orderCollection.insertOne(data);
+        // const result = await orderCollection.insertOne(data);
+        // const adminNumber = "8801855561001"; // Admin number in international format
+        // const text = encodeURIComponent(
+        //   `📦 New Order Placed!\n\Please check your dashboard!
+        //   `
+        // );
+
+        // const whatsappUrl = `https://wa.me/${adminNumber}?text=${text}`;
 
         res.status(201).send({
           message: "Order created successfully",
           orderId: result.insertedId,
+          whatsappUrl,
         });
       } catch (error) {
         console.error(error);
@@ -221,7 +229,11 @@ async function run() {
     // see order in admin panel
     app.get("/orderData", async (req, res) => {
       try {
-        const result = await orderCollection.find({}).toArray();
+        const result = await orderCollection
+          .find({})
+          .sort({ _id: -1 }) // Sort by _id in descending order
+          .toArray();
+
         res.send(result);
       } catch (error) {
         console.error(error);
