@@ -218,7 +218,6 @@ async function run() {
         res.status(201).send({
           message: "Order created successfully",
           orderId: result.insertedId,
-          whatsappUrl,
         });
       } catch (error) {
         console.error(error);
