@@ -199,21 +199,30 @@ async function run() {
     app.patch("/products/:typeId", async (req, res) => {
       try {
         const { typeId } = req.params;
-        const { soldOut, offerPrice } = req.body;
+        const { soldOut, offer } = req.body;
 
         // Build update object dynamically
         const updateFields = {};
-        if (soldOut !== undefined)
+
+        if (soldOut !== undefined) {
           updateFields["brands.$[].types.$[t].soldOut"] = soldOut;
-        if (offerPrice !== undefined)
-          updateFields["brands.$[].types.$[t].offer.offerPrice"] = offerPrice;
-        if (offerPrice !== undefined)
-          updateFields["brands.$[].types.$[t].offer.isActive"] = true;
+        }
+
+        // If frontend sends offer object, update both fields dynamically
+        if (offer) {
+          if (offer.offerPrice !== undefined)
+            updateFields["brands.$[].types.$[t].offer.offerPrice"] =
+              offer.offerPrice;
+
+          if (offer.isActive !== undefined)
+            updateFields["brands.$[].types.$[t].offer.isActive"] =
+              offer.isActive;
+        }
 
         const result = await productsCollection.updateOne(
-          { "brands.types.id": parseInt(typeId) }, // ✅ Match inside nested array
+          { "brands.types.id": parseInt(typeId) },
           { $set: updateFields },
-          { arrayFilters: [{ "t.id": parseInt(typeId) }] } // ✅ Target specific type
+          { arrayFilters: [{ "t.id": parseInt(typeId) }] }
         );
 
         if (result.modifiedCount === 0) {
