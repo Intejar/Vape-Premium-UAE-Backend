@@ -375,11 +375,11 @@ async function run() {
 
       app.post("/admin/login", async (req, res) => {
         try {
-          const { username, password } = req.body;
+          const { userName, password } = req.body;
 
           const admin = await productsCollection.db
             .collection("admins")
-            .findOne({ username });
+            .findOne({ userName });
 
           if (!admin) {
             return res.status(401).json({ message: "Invalid username" });
