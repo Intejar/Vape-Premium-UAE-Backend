@@ -370,6 +370,31 @@ async function run() {
         console.error("Error fetching latest products:", error);
         res.status(500).send({ error: "Failed to fetch latest products" });
       }
+
+      // admin login
+
+      app.post("/admin/login", async (req, res) => {
+        try {
+          const { username, password } = req.body;
+
+          const admin = await productsCollection.db
+            .collection("admins")
+            .findOne({ username });
+
+          if (!admin) {
+            return res.status(401).json({ message: "Invalid username" });
+          }
+
+          if (admin.password !== password) {
+            return res.status(401).json({ message: "Invalid password" });
+          }
+
+          res.json({ message: "Login successful", login: true });
+        } catch (err) {
+          console.error("Login error:", err);
+          res.status(500).json({ message: "Server error" });
+        }
+      });
     });
   } finally {
   }
