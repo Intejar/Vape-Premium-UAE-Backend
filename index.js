@@ -88,7 +88,7 @@ async function run() {
       const data = await productsCollection.find({}).toArray();
       const { category } = req.params;
       const categoryDoc = await productsCollection.findOne({
-        category: category,
+        slug: category,
       });
       res.send(categoryDoc.brands);
     });
@@ -192,6 +192,38 @@ async function run() {
       } catch (error) {
         console.error("Error fetching product:", error);
         res.status(500).json({ message: "Server error" });
+      }
+    });
+
+    // update product data-
+    app.patch("/products/:typeId", async (req, res) => {
+      try {
+        const { typeId } = req.params;
+        const { soldOut, offerPrice } = req.body;
+
+        // Build update object dynamically
+        const updateFields = {};
+        if (soldOut !== undefined)
+          updateFields["brands.$[].types.$[t].soldOut"] = soldOut;
+        if (offerPrice !== undefined)
+          updateFields["brands.$[].types.$[t].offer.offerPrice"] = offerPrice;
+        if (offerPrice !== undefined)
+          updateFields["brands.$[].types.$[t].offer.isActive"] = true;
+
+        const result = await productsCollection.updateOne(
+          { "brands.types.id": parseInt(typeId) }, // ✅ Match inside nested array
+          { $set: updateFields },
+          { arrayFilters: [{ "t.id": parseInt(typeId) }] } // ✅ Target specific type
+        );
+
+        if (result.modifiedCount === 0) {
+          return res.status(404).json({ message: "Product not found" });
+        }
+
+        res.json({ message: "Product updated successfully" });
+      } catch (error) {
+        console.error("Update error:", error);
+        res.status(500).json({ error: "Failed to update product" });
       }
     });
 
