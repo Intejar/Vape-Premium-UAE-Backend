@@ -247,15 +247,7 @@ async function run() {
             .status(400)
             .send({ error: "Payload is missing or invalid" });
         }
-
-        // const result = await orderCollection.insertOne(data);
-        // const adminNumber = "8801855561001"; // Admin number in international format
-        // const text = encodeURIComponent(
-        //   `📦 New Order Placed!\n\Please check your dashboard!
-        //   `
-        // );
-
-        // const whatsappUrl = `https://wa.me/${adminNumber}?text=${text}`;
+        const result = await orderCollection.insertOne(data);
 
         res.status(201).send({
           message: "Order created successfully",
