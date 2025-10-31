@@ -18,6 +18,7 @@ async function run() {
   try {
     const productsCollection = client.db("Vape").collection("products");
     const orderCollection = client.db("Vape").collection("orderdata");
+    const adminCollection = client.db("Vape").collection("admin");
 
     // all product
     app.get("/products", async (req, res) => {
@@ -377,9 +378,7 @@ async function run() {
         try {
           const { userName, password } = req.body;
 
-          const admin = await productsCollection.db
-            .collection("admins")
-            .findOne({ userName });
+          const admin = await adminCollection.findOne({ userName });
 
           if (!admin) {
             return res.status(401).json({ message: "Invalid username" });
